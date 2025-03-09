@@ -18,6 +18,7 @@
     "@lynx-js/react-rsbuild-plugin": "^0.9.1",
     "@lynx-js/rspeedy": "^0.8.3",
     "@lynx-js/types": "^3.2.0",
+    "@rsbuild/plugin-sass": "^1.2.2",
     "@types/react": "^18.3.18",
     "prettier": "^3.5.2",
     "typescript": "~5.7.3"
